@@ -1,0 +1,81 @@
+/* Element selector */
+img {
+    width: 50px;
+}
+
+#ww {
+   margin-left: 100px;
+   font-size: medium;
+   
+}
+
+#checkout {
+background-color: white;
+margin-left: 300px;
+margin-right: 900px;
+width: 600px;
+
+}
+
+#everything {
+   background-color:cadetblue
+}
+
+#E {
+  margin-left: 100px; 
+}
+
+#loggo {
+   margin-left: 200px;
+   color: gray;
+   font-style: normal;
+   font-size: small;
+}
+#lastname, #firstname {
+   padding: 10px;
+}
+
+h2 {
+   margin-left: 100px;
+   margin-top: 50px;
+}
+
+#payment{
+   margin-top: 50px;
+}
+
+#button{
+   width: 400px;
+   background-color: green;
+   margin-top: 50px;
+}
+
+#wp{
+   font-size: xx-small;
+   margin-left: 300px;
+   margin-right:  300px;
+}
+
+#poweredbystripe { 
+   margin-left: 200px;
+   margin-right: 200px;
+}
+
+#freelancer {
+   margin-left: 200px;
+   font-size: large;
+font-display: bold;
+}
+
+#one {
+   font-style: italic;
+}
+#fr{
+   margin-left: 100px;
+   font-style: normal;
+   font-size: larger;
+}
+
+#three{
+   text-decoration: underline;
+}
